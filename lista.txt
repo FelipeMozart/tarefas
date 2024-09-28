@@ -5,3 +5,4 @@ Lista de tarefas
 3. Fazer exercicio de Java
 4. Aprender Spring Boot
 5. Ler um livro
+6. Fazer workshop de github na Treina Recife
