@@ -1,0 +1,5 @@
+Lista de tarefas
+
+1. Estudar git e git hub
+2. Fazer exercíos de Java
+3 Aprender Spring Boot
