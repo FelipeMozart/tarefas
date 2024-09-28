@@ -1,8 +1,8 @@
-Lista de tarefas
+Lista de tarefas em execução
 
-1. Estudar git e git hub
-2. Ir para a academia
-3. Fazer exercicio de Java
+1. Estudar git e git hub - em andamento
+2. Ir para a academia - concluído
+3. Fazer exercicio de Java - a fazer
 4. Aprender Spring Boot
 5. Ler um livro
 6. Fazer workshop de github na Treina Recife
