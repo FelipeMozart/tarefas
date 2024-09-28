@@ -1,5 +1,7 @@
 Lista de tarefas
 
 1. Estudar git e git hub
-2. Fazer exercíos de Java
-3 Aprender Spring Boot
+2. Ir para a academia
+3. Fazer exercicio de Java
+4. Aprender Spring Boot
+5. Ler um livro
